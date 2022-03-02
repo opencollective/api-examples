@@ -2,6 +2,8 @@
 
 All in one step!
 
+This could be used by an application like GitHub to automate the creation of Open Collective accounts.
+
 ## 1) Creating a Collective
 
 ```graphql

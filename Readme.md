@@ -8,4 +8,4 @@ A repository to share a few examples to help people interact with the Open Colle
 
 ## Contributions
 
-- Registering new "Added Funds" Contributions as Fiscal Host admin
+- [Registering "Added Funds" Contributions as Host admin](contributions/added-funds.md)
