@@ -1,9 +1,8 @@
-# Creating Collective, applying to a Fiscal Host and inviting Collective admins
+# Creating Collective, applying to Host, inviting Admins
 
 All in one step!
 
-
-1) Creating a Collective
+## 1) Creating a Collective
 
 ```graphql
 mutation CreateCollective($collective: CollectiveCreateInput!) {
@@ -32,7 +31,7 @@ Sample parameters:
 }
 ```
 
-2) Creating a Collective and Applying to a Host
+## 2) Creating a Collective and Applying to Fiscal Host
 
 ```graphql
 mutation CreateCollective(
@@ -66,7 +65,7 @@ Sample parameters:
 }
 ```
 
-3) Creating a Collective, Applying to a Host and inviting admins
+## 3) Creating a Collective, Applying to Fiscal Host and inviting Admins
 
 ```graphql
 mutation CreateCollective(

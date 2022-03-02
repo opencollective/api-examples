@@ -4,7 +4,7 @@ A repository to share a few examples to help people interact with the Open Colle
 
 ## Account
 
-- [Creating Collective, applying to a Fiscal Host and inviting Collective admins](account/create-apply-invite.md)
+- [Creating Collective, applying to Host, inviting Admins](account/create-apply-invite.md)
 
 ## Contributions
 
