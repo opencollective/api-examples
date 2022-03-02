@@ -9,3 +9,8 @@ A repository to share a few examples to help people interact with the Open Colle
 ## Contributions
 
 - [Registering "Added Funds" Contributions as Host admin](contributions/added-funds.md)
+- [List top backed Collectives](contributions/list-top-backed-collectives.md)
+
+## Gift Cards
+
+- [List Gift Card transactions from Organization](gift-cards/list-transactions.md)
